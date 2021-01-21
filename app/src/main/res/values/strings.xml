@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NEWSAPP1</string>
+    <string name="news_api_key">e1cbd96486414fad92cbad669d97a3f7</string>
+    <string name="news">News Flash</string>
+    <string name="title">TITLE</string>
+    <string name="source">Source</string>
+    <string name="_5_hour_ago">5 hour ago</string>
+    <string name="search">Search</string>
+    <string name="news_flash">NEWS FLASH</string>
+    <string name="description">Description</string>
+</resources>
